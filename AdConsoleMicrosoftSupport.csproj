@@ -45,6 +45,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="otherApproaches\DirectoryEntry_filter.cs" />
+    <Compile Include="otherApproaches\PrincipalContextConventional.cs" />
+    <Compile Include="otherApproaches\PrincipalContextFilter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
